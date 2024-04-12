@@ -13,5 +13,14 @@
 > Com a linguagem GO instalada e a IDE pronta, pode baixar os arquivos no GIT HUB a seguir\
 > **https://github.com/alvaroneto19/Trabalho-Topicos**
 
+## Quarto passo
+> Com os aquivos baixados, pode ir no Visual Studio Code e criar uma pasta raiz para o projeto
+
+## Quinto passo
+> Abra um terminal no Visual Studio Code usando (Crtl + Alt + ')\
+> O go é uma linguagem que precisa de comandos para ser executada\
+> Então no terminal use o seguinte comando para executar a aplicação\
+> **_go run nomeArquivoPrincipal.go_(nesse caso foi contagem.go)**
+
 
 
